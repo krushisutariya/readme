@@ -79,16 +79,16 @@ You can visit our website using this link
    https://tasty-angelfish.cyclic.app/
 
 ### Features
-   **Login**
+   ▪️ **Login**
   ![Login](assets/images/login.png)
 
-   **Sign Up**
+   ▪️ **Sign Up**
   ![Sign Up](assets/images/signup.png)
 
-   **Home Page**
+  ▪️ **Home Page**
   ![Home Page](assets/images/home.png)
 
-   **Facilities**
+   ▪️ **Facilities**
 <br>
   <img src="assets/images/f1.png" alt="Facility 1" width="400" height="100">
 <img src="assets/images/f2.png" alt="Facility 2" width="400" height="100">
@@ -99,7 +99,7 @@ You can visit our website using this link
 <img src="assets/images/f7.png" alt="Facility 7" width="400" height="100">
 <img src="assets/images/f8.png" alt="Facility 8" width="400" height="100">
 
-### Specific Facilities for Users
+### ▪️ Specific Facilities for Users
 
    🟢 **Patient 🙎‍♂**
    <br>
@@ -131,7 +131,7 @@ You can visit our website using this link
    <br>
      -An ambulance driver can utilize this system to transport a patient to the nearest hospital, taking into consideration bed availability and the specialized expertise of the attending doctor.
     ![Ambulance Driver](assets/images/ambudriver.png)
-     Ambulance driver can find out nearby hospitals with traffic time considered
+     - Ambulance driver can find out nearby hospitals with traffic time considered
   ![Ambulance Driver](assets/images/ambulance_nearbyhos.png.jpg)
 
    🟢**Government Agency 🏬**
