@@ -90,14 +90,14 @@ You can visit our website using this link
 
    ▪️ **Facilities**
 <br>
-  <img src="assets/images/f1.png" alt="Facility 1" width="400" height="100">
-<img src="assets/images/f2.png" alt="Facility 2" width="400" height="100">
-<img src="assets/images/f3.png" alt="Facility 3" width="400" height="100">
-<img src="assets/images/f4.png" alt="Facility 4" width="400" height="100">
-<img src="assets/images/f5.png" alt="Facility 5" width="400" height="100">
-<img src="assets/images/f6.png" alt="Facility 6" width="400" height="100">
-<img src="assets/images/f7.png" alt="Facility 7" width="400" height="100">
-<img src="assets/images/f8.png" alt="Facility 8" width="400" height="100">
+  <img src="assets/images/f1.png" alt="Facility 1" width="400" height="150">
+<img src="assets/images/f2.png" alt="Facility 2" width="400" height="150">
+<img src="assets/images/f3.png" alt="Facility 3" width="400" height="150">
+<img src="assets/images/f4.png" alt="Facility 4" width="400" height="150">
+<img src="assets/images/f5.png" alt="Facility 5" width="400" height="150">
+<img src="assets/images/f6.png" alt="Facility 6" width="400" height="150">
+<img src="assets/images/f7.png" alt="Facility 7" width="400" height="150">
+<img src="assets/images/f8.png" alt="Facility 8" width="400" height="150">
 
 ### ▪️ Specific Facilities for Users
 
