@@ -91,14 +91,27 @@ You can visit our website using this link
 
    **Facilities**
 <br>
+  <style>
+    .image-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; /* Adjust as needed */
+    }
+    .image-container img {
+      margin-bottom: 10px; /* Adjust as needed */
+    }
+  </style>
+  <div class="image-container">
   <img src="assets/images/f1.png" alt="Facility 1" width="100" height="80">
-<img src="assets/images/f2.png" alt="Facility 2" width="100" height="80">
-<img src="assets/images/f3.png" alt="Facility 3" width="100" height="80">
-<img src="assets/images/f4.png" alt="Facility 4" width="100" height="80">
-<img src="assets/images/f5.png" alt="Facility 5" width="100" height="80">
-<img src="assets/images/f6.png" alt="Facility 6" width="100" height="80">
-<img src="assets/images/f7.png" alt="Facility 7" width="100" height="80">
-<img src="assets/images/f8.png" alt="Facility 8" width="100" height="80">
+  <img src="assets/images/f2.png" alt="Facility 2" width="100" height="80">
+  <img src="assets/images/f3.png" alt="Facility 3" width="100" height="80">
+  <img src="assets/images/f4.png" alt="Facility 4" width="100" height="80">
+  <img src="assets/images/f5.png" alt="Facility 5" width="100" height="80">
+  <img src="assets/images/f6.png" alt="Facility 6" width="100" height="80">
+  <img src="assets/images/f7.png" alt="Facility 7" width="100" height="80">
+  <img src="assets/images/f8.png" alt="Facility 8" width="100" height="80">
+</div>
+
 
 ### Specific Facilities for Users
 
