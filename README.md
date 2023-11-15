@@ -47,11 +47,11 @@ This Hospital Management System helps patients, doctors, hospitals, ambulances, 
 ## ⭐ Technologies
 HTML
 <br>
-<img src="assets/images/html.png" alt="HTML" width="400" height="400">  
+<img src="assets/images/html.png" alt="HTML" width="100" height="100">  
 <br>
 CSS
 <br>
-<img src="assets/images/css.png" alt="CSS" width="400" height="400">
+<img src="assets/images/css.png" alt="CSS" width="100" height="100">
 <br>
 JavaScript
 <br>
@@ -59,12 +59,11 @@ JavaScript
 <br>
 PostgreSQL
 <br>
-<img src="assets/images/postgresql.png" alt="PostgreSQL" width="400" height="400">
+<img src="assets/images/postgresql.png" alt="PostgreSQL" width="100" height="100">
 <br>
 NodeJs
 <br>
-<img src="assets/images/nodejs.png" alt="Node.js" width="400" height="400">
-
+<img src="assets/images/nodejs.png" alt="Node.js" width="100" height="100">
 <br>
 ExpressJs
 <br>
