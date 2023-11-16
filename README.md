@@ -148,7 +148,7 @@ You can visit our website using this link
 
 🟢 **Profile Page**
 <br>
--interactive profile page for each user
+-Interactive profile page for each user
 ![Profile Page](assets/images/profile.jpg)
 
 <a name="team"></a>
