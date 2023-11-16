@@ -8,12 +8,10 @@
 * [Demo](#demo)
 * [Team](#team)
 
-<a name="introduction"></a>
 ## Introduction 
 This Hospital Management System helps patients, doctors, hospitals, ambulances, and government agencies by making healthcare work better. It makes things like appointments and information easier, so patients get better care. It also helps with keeping track of data in healthcare. The goal is to solve problems for everyone involved and make healthcare services better overall.
 
-<a name="privileges"></a>
-##   Privileges 
+## Privileges 
 - **For Patients**
   - Access information about hospitals, including specialties, services, and location.
   - Book appointments with doctors at preferred hospitals.
@@ -45,6 +43,9 @@ This Hospital Management System helps patients, doctors, hospitals, ambulances, 
   - Access a personalized database for monitoring hospitals, doctors, and patient’s restricted data.
   - Monitor healthcare infrastructure, services, and resources.
   - Utilize data for policy -making and resource allocation.
+
+<a name="technologies"></a>
+
 ## Technologies
 HTML
 <br>
@@ -184,7 +185,9 @@ You can visit our website using this link
 -interactive profile page for each user
 ![Profile Page](assets/images/profile.jpg)
 
-## Team 
+<a name="team"></a>
+
+## ⭐ Team 
 1. Aditya Patel
 2. Akshat Kadiya
 3. Dharmesh Kota
